@@ -12,7 +12,7 @@ sudo apt install build-essential
 
 ### 00 : Hello World
 Make File:  
-[make](../00_HelloWorld/Makefile)
+[make](../linux_ipc_kernel_user/00_HelloWorld/Makefile)
 
 Source Code:  
-[helloworldLKM.c](../00_HelloWorld/helloworldLKM.c)
+[helloworldLKM.c](../linux_ipc_kernel_user/00_HelloWorld/helloworldLKM.c)
